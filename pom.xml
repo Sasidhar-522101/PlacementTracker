@@ -11,8 +11,8 @@
 	<groupId>com.placement.project</groupId>
 	<artifactId>PlacementTracker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
-	<name>PlacementTracker</name>
+	<packaging>jar</packaging>
+    <name>PlacementTracker</name>
 	<description>Placement Project Using Spring Boot</description>
 	<url/>
 	<licenses>
